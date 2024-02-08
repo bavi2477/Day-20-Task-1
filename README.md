@@ -7,20 +7,6 @@ This is a simple web application that fetches random facts about cats from an ex
 - CSS (Bootstrap)
 - JavaScript
 
-## Project Structure
-
-cat-facts/
-│
-├── css/
-│ └── style.css # Stylesheet file for the webpage
-│
-├── js/
-│ └── script.js # JavaScript file for fetching and displaying cat facts
-│
-├── index.html # Main HTML file for the webpage
-│
-└── README.md # Project README file
-
 ## Setup Instructions
 1. Clone the repository to your local machine:
 
